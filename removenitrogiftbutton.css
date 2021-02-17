@@ -1,0 +1,9 @@
+/* ==========
+RemoveNitroGiftButton.css by MaXfAa
+
+For use this, you need to have Better Discord
+========== */
+
+button[aria-label="Send a gift"] {
+    display: none;
+}
