@@ -1,7 +1,7 @@
 # How to remove the "Nitro Gift" button" in a Discord Client
 Procedure :
 
-1. Download BetterDiscord : https://github.com/rauenzi/BetterDiscordApp#auto-installers
+1. Download BetterDiscord : https://github.com/BetterDiscord/Installer/releases/latest/download/BetterDiscord-Windows.exe
 2. Install BetterDiscord on your computer
 3. Go to the settings page of the Discord client
 4. Go to "Custom CSS" tab
